@@ -1,3 +1,3 @@
 # Hello-World-GitHub
-The hello world tutorial for GitHub online.
+A general git and GitHub tutorial.
 Presented to Quest Lab 3/10/2022.
